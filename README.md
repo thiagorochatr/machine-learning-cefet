@@ -1,2 +1,2 @@
-# machine-learning-cefet
+# Machine Learning
 Repository for the Machine Learning (Aprendizado de máquina), from the Undergraduate Course in Information Systems, at the Federal Center of Technological Education/Rio de Janeiro (Cefet/RJ).
